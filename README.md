@@ -25,7 +25,7 @@
 
 ###
 
-<h1 align="center">Olá, Bem Vindo ao meu perfil✌️</h1>
+<h1 align="center">Hello, welcome to my profile✌</h1>
 
 ###
 
