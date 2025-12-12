@@ -12,7 +12,7 @@ Valorizo código limpo, desempenho, manutenibilidade e aprendiz contínuo.
 
 ## Habilidades e Tecnologias
 
-![My Skills](https://skillicons.dev/icons?i=php,html,css,laravel,mysql,react,vue,git,docker,csharp,dotnet,nodejs,jquery,cypress,python,c,java,linux&perline=8)
+![My Skills](https://skillicons.dev/icons?i=php,html,css,laravel,mysql,react,vue,git,docker,cs,dotnet,nodejs,jquery,cypress,python,c,java,linux&perline=8)
 
 
 ## Estatísticas do GitHub
