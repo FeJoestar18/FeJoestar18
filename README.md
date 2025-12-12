@@ -1,29 +1,29 @@
-## Hi there! 👋
+## Olá! 👋
 
-I'm Felipe Amaro, a Computer Science student driven by curiosity, problem-solving, and the desire to build software that truly makes an impact. Welcome to my development journey!
+Sou Felipe Amaro, um estudante de Ciência da Computação movida pela curiosidade, pela resolução de problemas e pelo desejo de construir um software que realmente causa impacto. Bem-vindo à minha jornada de desenvolvimento!
 
-## About Me
+## Sobre mim
 
-Hi! I'm Felipe Amaro, a Back-End Developer passionate about building robust, scalable and well-architected systems.
-I currently work at Smit Soluções Mobile, developing modern web applications and contributing to internal platforms that improve productivity and business workflows.
+Um desenvolvimento back-end apaixonado por criar sistemas robustos, escaláveis e bem arquitetos.
+Atualmente trabalhando na Smit Soluções Mobile, desenvolvendo aplicações web modernas e contribuindo para plataformas internas que melhoram a produtividade e os fluxos de trabalho dos negativos.
 
-Although my main focus is on the back-end, I also have solid experience with front-end development, especially using React and Vue, enabling me to collaborate across the full stack when needed.
-I value clean code, performance, maintainability, and continuous learning.
+Agora meu foco principal seja o back-end, também tenho algumas experiências com desenvolvimento front-end, especialmente usando React e Vue, o que me permite colaborar em toda a pilha quando necessário.
+Valorizo código limpo, desempenho, manutenibilidade e aprendiz contínuo.
 
-## Skills & Technologies
+## Habilidades e Tecnologias
 
-php,html,css,laravel,mysql,react,vue,git,docker,cs,dotnet,nodejs,jquery,cypress,py,c,java,linux
+https://skillicons.dev/icons?i=php,html,css,laravel,mysql,react,vue,git,docker,cs,dotnet,nodejs,jquery,cypress,py,c,java,linux&perline=8php,html,css,laravel,mysql,react,vue,git,docker,cs,dotnet,nodejs,jquery,cypress,py,c,java,linux
 
-## GitHub Stats
+## Estatísticas do GitHub
 
-🌟 Public Repositories: 9
-👥 Followers: 3
-🔗 Following: 8
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FeJoestar18&show_icons=true&theme=radical)
+🌟 Repositórios Públicos: 9
+👥 Seguidores: 3
+🔗 Seguindo: 8
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=FeJoestar18&show_icons=true&theme=radical)
 
-## Recent Activity
+## Atividade recente
 
-- ⭐️ Pushed to [FeJoestar18](https://github.com/FeJoestar18/FeJoestar18)
-- ⭐️ Pushed to [Api-.Net-8](https://github.com/FeJoestar18/Api-.Net-8)
-- ⭐️ Pushed to [Projeto-Sistema-Gerenciamento-Biblioteca](https://github.com/FeJoestar18/Projeto-Sistema-Gerenciamento-Biblioteca)
-- ⭐️ Created a new branch in [Api-.Net-8](https://github.com/FeJoestar18/Api-.Net-8)
+- ⭐️ Empurrado para [FeJoestar18](https://github.com/FeJoestar18/FeJoestar18)
+- ⭐️ Empurrado para [Api-.Líquido-8](https://github.com/FeJoestar18/Api-.Net-8)
+- ⭐️ Empurrado para [Projeto-Sistema-Gerenciamento-Biblioteca](https://github.com/FeJoestar18/Projeto-Sistema-Gerenciamento-Biblioteca)
+- ⭐️ Criou uma nova filial em [Api-.Líquido-8](https://github.com/FeJoestar18/Api-.Net-8)
