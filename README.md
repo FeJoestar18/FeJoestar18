@@ -17,7 +17,9 @@ Valorizo código limpo, desempenho, manutenibilidade e aprendiz contínuo.
 
 ## Estatísticas do GitHub
 
-[![Sequência do GitHub](https://streak-stats.demolab.com?user=FeJoestar18&theme=highcontrast&hide_border=falso&short_numbers=falso)](https://git.io/streak-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FeJoestar18&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FeJoestar18&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=FeJoestar18&theme=dark)
 
 ## Atividade recente
 
