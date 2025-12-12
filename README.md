@@ -19,10 +19,3 @@ Valorizo código limpo, desempenho, manutenibilidade e aprendiz contínuo.
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FeJoestar18&theme=dark)![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=FeJoestar18&theme=dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FeJoestar18&theme=dark)
-
-## Atividade recente
-
-- ⭐️ Empurrado para [FeJoestar18](https://github.com/FeJoestar18/FeJoestar18)
-- ⭐️ Empurrado para [Api-.Líquido-8](https://github.com/FeJoestar18/Api-.Net-8)
-- ⭐️ Empurrado para [Projeto-Sistema-Gerenciamento-Biblioteca](https://github.com/FeJoestar18/Projeto-Sistema-Gerenciamento-Biblioteca)
-- ⭐️ Criou uma nova filial em [Api-.Líquido-8](https://github.com/FeJoestar18/Api-.Net-8)
