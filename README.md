@@ -12,15 +12,12 @@ Valorizo código limpo, desempenho, manutenibilidade e aprendiz contínuo.
 
 ## Habilidades e Tecnologias
 
-![My Skills](https://skillicons.dev/icons?i=php,html,css,laravel,mysql,react,vue,git,docker,cs,dotnet,nodejs,jquery,cypress,python,c,java,linux&perline=8)
+![Minhas habilidades](https://skillicons.dev/icons?i=php,html,css,laravel,mysql,react,vue,git,docker,cs,dotnet,nodejs,jquery,cypress,python,c,java,linux&perline=8)
 
 
 ## Estatísticas do GitHub
 
-🌟 Repositórios Públicos: 9
-👥 Seguidores: 3
-🔗 Seguindo: 8
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=FeJoestar18&show_icons=true&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=FeJoestar18&show_icons=true&theme=radical)
 
 ## Atividade recente
 
