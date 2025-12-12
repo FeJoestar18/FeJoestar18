@@ -17,7 +17,7 @@ Valorizo código limpo, desempenho, manutenibilidade e aprendiz contínuo.
 
 ## Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=FeJoestar18&show_icons=true&theme=radical)
+[![Sequência do GitHub](https://streak-stats.demolab.com?user=FeJoestar18&theme=highcontrast&hide_border=falso&short_numbers=falso)](https://git.io/streak-stats)
 
 ## Atividade recente
 
