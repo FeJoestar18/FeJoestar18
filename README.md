@@ -5,7 +5,7 @@ Sou Felipe Amaro, um estudante de Ciência da Computação movida pela curiosida
 ## Sobre mim
 
 Um desenvolvimento back-end apaixonado por criar sistemas robustos, escaláveis e bem arquitetos.
-Atualmente trabalhando na Smit Soluções Mobile, desenvolvendo aplicações web modernas e contribuindo para plataformas internas que melhoram a produtividade e os fluxos de trabalho dos negativos.
+Atualmente trabalhando na Smit Soluções Mobile, desenvolvendo aplicações web modernas e contribuindo para plataformas internas que melhoram a produtividade e os fluxos de trabalho.
 
 Agora meu foco principal seja o back-end, também tenho algumas experiências com desenvolvimento front-end, especialmente usando React e Vue, o que me permite colaborar em toda a pilha quando necessário.
 Valorizo código limpo, desempenho, manutenibilidade e aprendiz contínuo.
